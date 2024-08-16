@@ -1,1 +1,3 @@
-# php-fom-scratch
+# PHP from scratch
+
+PHP notes
