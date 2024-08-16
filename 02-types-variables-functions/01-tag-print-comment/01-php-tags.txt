@@ -1,0 +1,15 @@
+PHP Tags
+--------
+- A PHP page is a mix of HTML and PHP code
+    - PHP code is wrtten between opening & closing PHP tags
+        - <?php     = opening PHP tag
+        - ?>        = closing PHP tag
+
+    - The PHP code between opening & closing PHP tags
+        - Is known as a PHP block
+
+
+- The PHP code (block) will NOT be visible on the PHP page
+    - When the browser renders it
+    - Also when viewing the page's source on the browser
+    - ONLY the output of the PHP block that gets rendered

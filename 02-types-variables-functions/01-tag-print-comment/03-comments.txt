@@ -1,0 +1,21 @@
+Comments
+--------
+- To add comments in PHP code
+    - Single-line comments starts with an "//" or "#"
+        - Followed detailed text in a single line
+
+    - Multi-line comments starts with /*
+        - Followed detailed text that spans multiple lines
+        - Concludes with */
+
+    - Comments in PHP code are ignored by the PHP interpreter
+        - It does NOT get rendered in the HTML page for the browser
+    
+
+Examples:
+// This is a single-line PHP comment
+
+# This is a single-line PHP comment
+
+/* This is a multi-line 
+PHP comment */

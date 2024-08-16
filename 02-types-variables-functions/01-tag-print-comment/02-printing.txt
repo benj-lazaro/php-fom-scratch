@@ -1,0 +1,34 @@
+Printing
+--------
+- The PHP commands "echo" and "print"
+    - Informs the PHP interpreter to sent text and/or HTML markup to the browser
+
+
+- echo
+    - This command informs the PHP interpreter
+        - To add the text and/or markup enclosed in quotes (single or double)
+            - After the "echo" command
+            - To the HTML page it is rendering for the browser
+            
+    - This is NOT a built-in function but a language construct (i.e. statement)
+    - It accept MULTIPLE arguments and has NO return value (i.e. void)
+    - Reference (https://www.php.net/manual/en/function.echo.php)
+
+
+Syntax:
+echo "<string_literal_or_HTML_markup>, <...>";
+
+Syntax Shortcut:
+<?= "<string_literal_or_HTML_markup>" ?>
+
+
+- print
+    - This command is the same as "echo" except
+        - It accepts a SINGLE argument
+        - It returns a value of 1
+
+    - Reference (https://www.php.net/manual/en/function.print.php)
+
+
+Syntax:
+print "<string_literal_or_HTML_markup>";
