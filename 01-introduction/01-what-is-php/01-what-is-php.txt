@@ -1,0 +1,15 @@
+What is PHP?
+------------
+- PHP stands for PHP: Hypertext Preprocessor
+    - An open-source server-side scripting language
+    - Used for developing web applications
+    - It has been around since 1994
+
+
+- PHP accounts for 70% of all websites including
+    - Websites that use frameworks (e.g. Laravel)
+    - Content management systems (e.g. Drupal & Wordpress)
+
+
+- PHP can be used to build anything
+    - From a simple contact form to a Social Network platform (e.g. Facebook)

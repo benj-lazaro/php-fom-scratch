@@ -1,0 +1,19 @@
+Why Use PHP?
+------------
+- The reasons are as follows:
+    - It is very easy to learn
+    - Provide lots of freedom and flexibility
+    - Create things quickly
+    - It is open-source and have a great support community
+    - Easy web server integration
+    - HTML within .php files
+    - Database integration
+
+
+- PHP controversy
+    - It is easy to write bad code in PHP
+        - Attributed to its freedom and flexibility
+
+    - To mitigate security-related issues and vulnerabilities
+        - It is recommended to use a PHP framework (e.g. Laravel)
+        - Instead of writing pure PHP code

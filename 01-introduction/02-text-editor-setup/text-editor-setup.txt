@@ -1,0 +1,29 @@
+Text Editor Setup
+-----------------
+- Install the following applications
+    - VS Code (preferred code editor)
+
+    - VS Code Extensions
+        - PHP Intelephense (Ben Mewburn)
+        - PHP DocBlocker (Neil Brayfield)
+
+    - Git (preferred version control system)
+
+
+- Configure VS Code's default code formatter to support PHP
+    - Open "Settings" (CTRL + ,)
+        - Search for "Format on save"
+        - Uncheck the checkbox labeled "Format on save"
+
+    - Access "Preferences: Open User Configuration (JSON)" (CTRL + SHIFT + P)
+        - Type "json"
+        - Press ENTER
+        - Search for "[php]"
+        - Paste the following:
+        
+            "[php]": {
+            "editor.formatOnSave": true,
+            "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+            }
+
+        - Save changes

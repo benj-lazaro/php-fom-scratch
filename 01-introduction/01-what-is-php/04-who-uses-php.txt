@@ -1,0 +1,7 @@
+Who Uses PHP?
+-------------
+- PHP is used by large companies
+    - Those that are NOT the FAANG-types (Facebook, Amazon, Apple, Netflix & Google)
+
+
+- It is popular among small to midsize companies, agencies & freelancers

@@ -1,0 +1,21 @@
+Client-side vs Server-side
+--------------------------
+- Server-side code is executed on the server
+    - It's code is NOT accessible from the browser (client-side)
+    - Only the output generated from the server-side code is accessible
+
+
+- Client-side code is executed within the browser
+    - Written by languages such as JavaScript
+    - It's code is visible to a user
+        - When viewing a web page's source code
+
+
+- Why use a server-side programming language
+    - Security          = It's code can NOT be seen
+    - More efficient    = The browser (client-side) does NOT have to do any work
+    - Database access   = Provide access to a Database
+    - Filesystem access = Ability to read from and write to files
+    - Authentication    = Create login / register functionality
+    - Session           = Create session & session variables
+    
