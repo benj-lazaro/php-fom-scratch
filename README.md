@@ -1,3 +1,3 @@
 # PHP from scratch
 
-PHP notes
+Notes on relearning modern-day PHP
